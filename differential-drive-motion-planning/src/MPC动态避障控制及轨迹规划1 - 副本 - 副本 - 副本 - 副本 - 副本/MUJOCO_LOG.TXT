@@ -1,0 +1,15 @@
+Mon Nov 17 08:27:55 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 143.8400.
+
+Mon Nov 17 08:30:21 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 61.7600.
+
+Mon Nov 17 09:03:41 2025
+WARNING: mju_openResource: unknown file 'src\mujoco_model_car.xml'
+
+Mon Nov 17 16:14:15 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 25.9000.
+
+Sun Feb 15 20:57:34 2026
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 13.2300.
+
